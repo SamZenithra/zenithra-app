@@ -1,6 +1,7 @@
 {
   "name": "Zenithra – Mindful Productivity",
   "short_name": "Zenithra",
+  "id": "uk.auralith.zenithra",
   "description": "Your mindful productivity companion. Track tasks, fasting, wellness and your Life Score.",
   "start_url": "/",
   "display": "standalone",
