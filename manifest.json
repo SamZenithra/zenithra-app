@@ -36,5 +36,19 @@
       "type": "image/png",
       "purpose": "any maskable"
     }
+  ],
+  "screenshots": [
+    {
+      "src": "screenshot1.png",
+      "sizes": "923x2000",
+      "type": "image/png",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "screenshot2.png",
+      "sizes": "923x2000",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
   ]
 }
